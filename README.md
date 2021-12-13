@@ -15,6 +15,13 @@
 
 - 解析 bilibili 视频
 - 简易版问与答
+## 部署
+
+1. 在config.gen.ini中设置 api_id , api_hash
+2. 复制config.gen.ini为config.ini
+3. 使用pip从requirements安装所需库
+4. ```python main.py```
+
 
 Copyright © 2021 Xtao-Labs
 
